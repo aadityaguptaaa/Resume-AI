@@ -30,7 +30,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 
 ## 🌐 Live Demo
 
-[![🚀 Live App](https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge)](https://resume-ai-ovkr.onrender.com/)
+[![🚀 Live App](https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge)](https://resumeeai-app.vercel.app/)
 
 
 
