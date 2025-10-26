@@ -21,13 +21,13 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 
 > 💡 Built with **Next.js 14**, **TypeScript**, and **TailwindCSS**, this project demonstrates production-grade full-stack engineering with integrated GenAI workflows.
 
----
+
 
 ## 🌐 Live Demo
 
 🔗 **Live App:** [Click here](https://resume-ai-ovkr.onrender.com/)  
 
----
+
 
 ## ✨ Key Features
 
@@ -38,7 +38,8 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 - 🔥 **Resume Roast:** Get fun, yet insightful, stylistic reviews from an AI  
 - 🎨 **Modern UI:** Built with Shadcn/UI and Tailwind for a premium UX  
 
----
+
+
 
 ## 🧩 Tech Stack
 
@@ -50,7 +51,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 | **Hosting** | Render Cloud |
 | **Version Control** | Git + GitHub |
 
----
+
 
 ## ⚙️ Getting Started
 
@@ -89,7 +90,7 @@ npm run dev
 
 Visit 👉 [http://localhost:3000](http://localhost:3000)
 
----
+
 
 ## 🧠 AI Flow Examples
 
@@ -100,7 +101,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 | `ats-score-analysis.ts` | Computes ATS score with keyword optimization |
 | `resume-roast.ts` | Offers humorous yet actionable AI commentary |
 
----
+
 
 ## 📸 UI Preview
 
@@ -108,7 +109,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
   <img src="https://via.placeholder.com/1000x500?text=AI+Resume+Assistant+UI+Preview" alt="AI Resume Assistant Preview" />
 </p>
 
----
+
 
 ## 🧰 Scripts
 
@@ -119,7 +120,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 | `npm run start` | Start production server |
 | `npm run lint` | Run code linting |
 
----
+
 
 ## 🤝 Contributing
 
@@ -130,7 +131,7 @@ Contributions are always welcome!
 4. Push to branch: `git push origin feature-name`  
 5. Submit a Pull Request 🚀  
 
----
+
 
 ## 🧑‍💻 Author
 
@@ -142,14 +143,14 @@ AI Developer • GenAI Engineer • MERN + Next.js Enthusiast
 <a href="https://www.linkedin.com/in/aadityaguptaaa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+
 
 ## 🪪 License
 
 This project is licensed under the **MIT License**.  
 Feel free to use and modify it for learning or showcasing purposes.
 
----
+
 
 <p align="center">
   <em>“Empowering careers through AI — one resume at a time.”</em> 🧠💼
