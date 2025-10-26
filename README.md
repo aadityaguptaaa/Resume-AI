@@ -14,6 +14,9 @@
 
 ---
 
+
+
+
 ## 🚀 Overview
 
 **AI-Powered Resume Assistant** is an intelligent web application that leverages **Generative AI** to analyze, enhance, and personalize your resume and cover letter.  
@@ -23,9 +26,13 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 
 
 
+
+
 ## 🌐 Live Demo
 
 🔗 **Live App:** [Click here](https://resume-ai-ovkr.onrender.com/)  
+
+
 
 
 
@@ -37,6 +44,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 - 💼 **AI Cover Letter Generator:** Automatically craft tailored cover letters  
 - 🔥 **Resume Roast:** Get fun, yet insightful, stylistic reviews from an AI  
 - 🎨 **Modern UI:** Built with Shadcn/UI and Tailwind for a premium UX  
+
 
 
 
@@ -53,11 +61,17 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 
 
 
+
+
 ## ⚙️ Getting Started
+
+
 
 ### 🧰 Prerequisites
 - Node.js **v18+**
 - npm or yarn
+
+
 
 ### 🪄 Installation
 
@@ -72,6 +86,8 @@ cd resume-AI
 npm install
 ```
 
+
+
 ### 🔐 Environment Variables
 
 Create a `.env.local` file in the root:
@@ -82,6 +98,8 @@ GENKIT_API_KEY=your_genkit_api_key
 
 > ⚠️ Never commit your `.env` file — it’s already in `.gitignore`.
 
+
+
 ### 🧠 Run Locally
 
 ```bash
@@ -89,6 +107,8 @@ npm run dev
 ```
 
 Visit 👉 [http://localhost:3000](http://localhost:3000)
+
+
 
 
 
@@ -105,6 +125,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 
 
 
+
 ## 🧰 Scripts
 
 | Command | Description |
@@ -113,6 +134,9 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 | `npm run build` | Build production bundle |
 | `npm run start` | Start production server |
 | `npm run lint` | Run code linting |
+
+
+
 
 
 
@@ -127,6 +151,8 @@ Contributions are always welcome!
 
 
 
+
+
 ## 🧑‍💻 Author
 
 **👋 Aaditya Gupta**  
@@ -136,6 +162,8 @@ AI Developer • GenAI Engineer • MERN + Next.js Enthusiast
 <a href="https://github.com/aadityaguptaaa"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aadityaguptaaa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+
 
 
 
