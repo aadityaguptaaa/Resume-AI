@@ -45,7 +45,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 - 🔥 **Resume Roast:** Get fun, yet insightful, stylistic reviews from an AI  
 - 🎨 **Modern UI:** Built with Shadcn/UI and Tailwind for a premium UX  
 
-
+---
 
 
 
@@ -61,7 +61,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 
 
 
-
+---
 
 ## ⚙️ Getting Started
 
@@ -85,7 +85,7 @@ cd resume-AI
 # Install dependencies
 npm install
 ```
-
+---
 
 
 ### 🔐 Environment Variables
