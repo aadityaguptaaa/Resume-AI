@@ -106,7 +106,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 ## 📸 UI Preview
 
 <p align="center">
-  <img src="[https://via.placeholder.com/1000x500?text=AI+Resume+Assistant+UI+Preview](https://github.com/aadityaguptaaa/Resume-AI/blob/main/Screenshot%202025-10-26%20205157.png?raw=true)" alt="AI Resume Assistant Preview" />
+  <img src="https://github.com/aadityaguptaaa/Resume-AI/blob/main/Screenshot%202025-10-26%20205157.png" />
 </p>
 
 
