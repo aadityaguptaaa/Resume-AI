@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Gemini-00B0F0?style=for-the-badge&logo=&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 | **Frontend** | Next.js 14 (App Router), TypeScript, TailwindCSS |
 | **UI Library** | Shadcn/UI, Lucide Icons |
 | **AI / Logic** | Genkit Flows |
-| **Hosting** | Render Cloud |
+| **Hosting** | Vercel Cloud |
 | **Version Control** | Git + GitHub |
 
 
