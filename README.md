@@ -109,7 +109,7 @@ npm run dev
 Visit 👉 [http://localhost:3000](http://localhost:3000)
 
 
-
+---
 
 ## 🧠 AI Flow Examples
 
@@ -121,7 +121,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 | `resume-roast.ts` | Offers humorous yet actionable AI commentary |
 
 
-
+---
 
 
 
@@ -135,7 +135,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 | `npm run lint` | Run code linting |
 
 
-
+---
 
 
 
@@ -150,7 +150,7 @@ Contributions are always welcome!
 
 
 
-
+---
 
 ## 🧑‍💻 Author
 
