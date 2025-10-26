@@ -103,12 +103,6 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 
 
 
-## 📸 UI Preview
-
-<p align="center">
-  <img src="https://github.com/aadityaguptaaa/Resume-AI/blob/main/Screenshot%202025-10-26%20205157.png" />
-</p>
-
 
 
 ## 🧰 Scripts
