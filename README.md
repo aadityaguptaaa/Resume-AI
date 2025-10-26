@@ -62,7 +62,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 
 ```bash
 # Clone this repository
-git clone https://github.com/aadityaguptaaa/resume-AI.git
+git clone https://github.com/aadityaguptaaa/Resume-AI.git
 
 # Navigate to project folder
 cd resume-AI
@@ -76,9 +76,7 @@ npm install
 Create a `.env.local` file in the root:
 
 ```bash
-OPENAI_API_KEY=your_openai_api_key
 GENKIT_API_KEY=your_genkit_api_key
-NEXT_PUBLIC_APP_ENV=production
 ```
 
 > ⚠️ Never commit your `.env` file — it’s already in `.gitignore`.
@@ -90,25 +88,6 @@ npm run dev
 ```
 
 Visit 👉 [http://localhost:3000](http://localhost:3000)
-
----
-
-## 🌍 Deployment (Render)
-
-1. Push code to **GitHub** *(excluding `.env`)*  
-2. Go to [Render.com](https://render.com) → **New Web Service**  
-3. Connect your repo and set configuration:
-
-| Setting | Value |
-|----------|--------|
-| **Root Directory** | *(empty)* |
-| **Build Command** | `npm install && npm run build` |
-| **Start Command** | `npm run start` |
-| **Node Version** | `20` |
-| **Environment Variables** | Add manually in dashboard |
-
-4. Deploy 🚀 → your app will be live at  
-   **[https://resume-ai-ovkr.onrender.com](https://resume-ai-ovkr.onrender.com)**
 
 ---
 
