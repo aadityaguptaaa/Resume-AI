@@ -26,7 +26,6 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 ## 🌐 Live Demo
 
 🔗 **Live App:** [https://resume-ai-ovkr.onrender.com](https://resume-ai-ovkr.onrender.com)  
-📦 **GitHub Repository:** [https://github.com/aadityaguptaaa/resume-AI](https://github.com/aadityaguptaaa/resume-AI)
 
 ---
 
