@@ -30,7 +30,8 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 
 ## 🌐 Live Demo
 
-🔗 **Live App:** [Click here](https://resume-ai-ovkr.onrender.com/)  
+[![🚀 Live App](https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge)](https://resume-ai-ovkr.onrender.com/)
+
 
 
 <br>
@@ -55,7 +56,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 |-----------|-------------|
 | **Frontend** | Next.js 14 (App Router), TypeScript, TailwindCSS |
 | **UI Library** | Shadcn/UI, Lucide Icons |
-| **AI / Logic** | OpenAI API, Genkit Flows |
+| **AI / Logic** | Genkit Flows |
 | **Hosting** | Render Cloud |
 | **Version Control** | Git + GitHub |
 
