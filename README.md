@@ -25,7 +25,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 
 ## 🌐 Live Demo
 
-🔗 **Live App:** [Click here](resume-ai-ovkr.onrender.com)  
+🔗 **Live App:** [Click here](https://resume-ai-ovkr.onrender.com/)  
 
 ---
 
