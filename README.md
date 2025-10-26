@@ -158,8 +158,11 @@ Contributions are always welcome!
 AI Developer • GenAI Engineer • MERN + Next.js Enthusiast  
 
 <p>
-<a href="https://github.com/aadityaguptaaa"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aadityaguptaaa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aadityavidit@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 </p>
 
 
