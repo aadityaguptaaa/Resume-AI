@@ -25,7 +25,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 > 💡 Built with **Next.js 14**, **TypeScript**, and **TailwindCSS**, this project demonstrates production-grade full-stack engineering with integrated GenAI workflows.
 
 
-
+<br>
 
 
 ## 🌐 Live Demo
@@ -33,7 +33,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 🔗 **Live App:** [Click here](https://resume-ai-ovkr.onrender.com/)  
 
 
-
+<br>
 
 
 ## ✨ Key Features
@@ -46,7 +46,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 - 🎨 **Modern UI:** Built with Shadcn/UI and Tailwind for a premium UX  
 
 
-
+<br>
 
 
 ## 🧩 Tech Stack
@@ -61,7 +61,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 
 
 
-
+<br>
 
 ## ⚙️ Getting Started
 
@@ -71,7 +71,7 @@ It provides real-time **ATS scoring**, **readability insights**, and **AI-crafte
 - Node.js **v18+**
 - npm or yarn
 
-
+<br>
 
 ### 🪄 Installation
 
@@ -86,7 +86,7 @@ cd resume-AI
 npm install
 ```
 
-
+<br>
 
 ### 🔐 Environment Variables
 
@@ -98,7 +98,7 @@ GENKIT_API_KEY=your_genkit_api_key
 
 > ⚠️ Never commit your `.env` file — it’s already in `.gitignore`.
 
-
+<br>
 
 ### 🧠 Run Locally
 
@@ -108,7 +108,7 @@ npm run dev
 
 Visit 👉 [http://localhost:3000](http://localhost:3000)
 
-
+<br>
 
 
 
@@ -122,7 +122,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 | `resume-roast.ts` | Offers humorous yet actionable AI commentary |
 
 
-
+<br>
 
 
 
@@ -136,7 +136,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 | `npm run lint` | Run code linting |
 
 
-
+<br>
 
 
 
@@ -149,7 +149,7 @@ Contributions are always welcome!
 4. Push to branch: `git push origin feature-name`  
 5. Submit a Pull Request 🚀  
 
-
+<br>
 
 
 
@@ -164,7 +164,7 @@ AI Developer • GenAI Engineer • MERN + Next.js Enthusiast
 </p>
 
 
-
+<br>
 
 
 ## 🪪 License
